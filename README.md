@@ -1,16 +1,21 @@
-# instagram_login
+# Instagram Login Screen
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This project is a Flutter application that replicates the Instagram login screen. It features a clean and user-friendly interface similar to the original Instagram login page, with options for Facebook login, email login, and a Sign Up link.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Instagram Logo**: Displays the Instagram logo at the top of the screen.
+- **Facebook Login Button**: Provides an option to log in using Facebook.
+- **Email Login Fields**: Includes fields for entering a username or email and a password.
+- **Forgot Password Link**: A link for users who forgot their password.
+- **Log In Button**: A button to log in with the provided credentials.
+- **Sign Up Link**: A link for new users to create an account.
+- **Meta Branding**: Displays the Meta logo at the bottom of the screen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here's how the login screen looks:
+
+<img src="assets/instagram_login_view.png" alt="Instagram Login Screen" width="300" height="570">
